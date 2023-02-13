@@ -1,0 +1,50 @@
+[
+    {
+        "name": " BikeBuddy App",
+        "livedate": " 12th January 2023",
+        "role": " Team Collaborator",
+        "github": "https://github.com/norrinRadd8/bike_buddy",
+        "deployment": "https://norrinradd8.github.io/bike_buddy/",
+        "images": "/images/BikeBuddy.png"
+    },
+    {
+        "name": " Coding Quiz App",
+        "livedate": " 6th January 2023",
+        "role": " Sole Author with starter code",
+        "github": "https://github.com/BrianMillie/CodeQuiz",
+        "deployment": "https://brianmillie.github.io/CodeQuiz/",
+        "images": "/images/CodeQuiz.png"
+    },
+    {
+        "name": " Password-Generator App",
+        "livedate": " 28th November 2022",
+        "role": " Sole Author with starter code",
+        "github": "https://github.com/BrianMillie/Password-Generator",
+        "deployment": "https://brianmillie.github.io/Password-Generator/",
+        "images": "/images/Password Generator.png"
+    },
+    {
+        "name": " Affirmations App",
+        "livedate": " 8th February 2023",
+        "role": " Sole Author",
+        "github": "https://github.com/BrianMillie/Affirmations_App",
+        "deployment": "https://brianmillie.github.io/Affirmations_App/",
+        "images": "/images/Affirmations.png"
+    },
+    {
+        "name": " AnyNotes App",
+        "livedate": " 4th February 2023",
+        "role": " Sole Author",
+        "github": "https://github.com/BrianMillie/DevNotes",
+        "deployment": "https://brianmillie.github.io/DevNotes/",
+        "images": "/images/AnyNotes.png"
+    },
+    {
+        "name": " ValidMail App",
+        "livedate": " TBC",
+        "role": " Sole Author",
+        "github": "https://github.com/BrianMillie/Valid_Mail",
+        "deployment": "https://brianmillie.github.io/Valid_Mail/",
+        "images": "/images/ValidMail.png"
+    }
+]
